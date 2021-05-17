@@ -31,3 +31,8 @@ Steps to setup & start the frontend server
 * Make sure you have `Node.js` installed 
 * Install all the required packages using `npm install`
 * Run `npm start` to run in the development mode
+
+Contributions 
+------------------
+* The great thing about open-source projects is that many people can see and contribute. If one is interested, please fork the repository and create a pull request with main.
+* Contact information: **albrit.bendo@gmail.com**
