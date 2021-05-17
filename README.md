@@ -6,7 +6,7 @@ With the Covid-19 infection spread everywhere in the world, countries, companies
 
 Description
 ------------------
-Tracer is a web-based contact tracing application, developed especially for Jacobs University Bremen.   Students and instructors are required to scan a QR-code which is attachedto  the  door  or  in  the  entrance  of  a  lecture  hall.   The  contact  details  of  the  user  arethen forwarded to the university,  which can manage them through the JTracer Access Management System (ACS). When there is an outbreak, this information will be managedby the respective admin. The records are stored in a user’s private digital diary and alsouploaded to the server.
+Tracer is a web-based contact tracing application, developed especially for Jacobs University Bremen.   Students and instructors are required to scan a QR-code which is attached to  the  door  or  in  the  entrance  of  a  lecture  hall.   The  contact  details  of  the  user  are then forwarded to the university,  which can manage them through the JTracer Access Management System (ACS) - not part of this project. When there is an outbreak, this information will be managed by the respective admin. The records are stored in a user’s private digital diary and also uploaded to the server.
 
 Architecture Notes
 ------------------
